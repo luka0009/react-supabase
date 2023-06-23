@@ -33,7 +33,6 @@ nav h1 {
   padding: 20px;
 }
 
-/* smoothie grid */
 .smoothie-grid {
   margin-top: 40px;
   display: grid;
@@ -74,7 +73,6 @@ nav h1 {
   cursor: pointer;
 }
 
-/* forms */
 form {
   background: #fff;
   padding: 20px;
@@ -100,7 +98,6 @@ form button {
   cursor: pointer;
 }
 
-/* order-by buttons */
 .order-by button {
   margin-right: 10px;
   background: var(--primary);
