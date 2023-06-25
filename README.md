@@ -1,1 +1,1 @@
-# practice side project with react and superbase 
+# practice side project with react and supabase
